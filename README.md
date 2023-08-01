@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh311003&label=Profile%20views&color=0e75b6&style=flat" alt="harsh311003" /> </p>
 
-- 🔭 I’m currently working on [LifeSaver](https://github.com/Harsh311003/LifeSaver)
+- 🔭 I’m currently working on [JobFinder](https://github.com/Harsh311003/JobFinder)
 
 - 🌱 I’m currently learning **data structure and algorithms**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/harsh311003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harsh311003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/harsh_311003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harsh_311003/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/harsh_0412/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/harsh_311003/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/harshsharma311003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/harshsharma311003/" height="30" width="40" /></a>
 </p>
 
